@@ -121,24 +121,18 @@ button:hover{
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 18px;
-    box-shadow: rgba(0, 0, 0, 0.384) 1px 1px 5px 10px , rgba(250, 251, 253, 0.185) 1px 1px 5px 10px ;
 }
 
-.cards:hover{
-    transform: scale(1.1);
-    transition: 1.0s;
-   
-}
 #samantha{
     display: none;
 }
+
  .setas{
     cursor: pointer;
  }
  .setas:hover{
     transform: translateY(-5px);
     transition: 0.5s;
-    
  }
 
 /*****************************************************************/
